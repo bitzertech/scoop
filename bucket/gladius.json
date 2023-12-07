@@ -2,7 +2,7 @@
   "version": "1.3.0.0",
   "description": "Gladius by BITZER Electronics A/S",
   "url": "https://apprelease.blob.core.windows.net/gladius-scoop/Gladius.zip",
-  "hash": "e26c536d3be77a2d363eda34c72743600e9817418a330e8418c5e5ac8d84fa9e",
+  "hash": "cb47d3cffca457e676a32468f6182fe4cf654cc778d75b08ff5dff7ef9ba2a88",
   "bin": "Gladius.exe",
   "shortcuts": [
     [
