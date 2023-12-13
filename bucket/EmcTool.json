@@ -2,7 +2,7 @@
   "version": "0.1.0.0",
   "description": "EMC Tool by BITZER Electronics A/S",
   "url": "https://apprelease.blob.core.windows.ne/emctool-scoop/EmcTool.zip",
-  "hash": "79087861369935e4190b07626012f0ef87844bd90b0a2d3bb34640b6b3067796",
+  "hash": "e7ac06a4719a766f57d080264a9570ed96cf9d17977cd8b429699c3a0e9ef691",
   "bin": "EmcTool.exe",
   "persist": [
     "UserSettings"
