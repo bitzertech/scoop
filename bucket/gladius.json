@@ -1,8 +1,8 @@
 {
-  "version": "1.4.10.0",
+  "version": "1.5.3.0",
   "description": "Gladius by BITZER Electronics A/S",
-  "url": "https://apprelease.blob.core.windows.net/gladius-scoop/1.4.10.0/Gladius.zip",
-  "hash": "de2b668182550495f4a1abb543a13299354179fa68abffe0f2c4b865df5c01d6",
+  "url": "https://apprelease.blob.core.windows.net/gladius-scoop/1.5.3.0/Gladius.zip",
+  "hash": "0d35f987ccf475b6f10fb7c1cd09651ac7f1ea76faa466de7fb2c5aa6e393bfd",
   "bin": "Gladius.exe",
   "persist": [
     "UserSettings",
@@ -14,6 +14,6 @@
       "Gladius"
     ]
   ],
-  "notes": "CAN bus support. New UI layout. Bug fixes. New bugs.",
+  "notes": "Plugin manager for managing 3-party plugins",
   "homepage": "https://bitzerdk.atlassian.net/l/cp/pC1JbEpW"
 }
