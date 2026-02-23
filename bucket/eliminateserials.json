@@ -1,8 +1,8 @@
 {
-  "version": "1.10.0.0",
+  "version": "0.0.1.0",
   "description": "EliminateSerials by BITZER Electronics A/S",
   "url": "https://apprelease.blob.core.windows.net/eliminateserials-scoop/EliminateSerials.zip",
-  "hash": "fe74d18f05bccc1c6bdc6d432be5048d56a06398c5395e8743af8c0a18709896",
+  "hash": "72c350c07b0cda5aa0c7443ac52466ca0dd491ef04d9a94ce8997a9db14dca54",
   "bin": "EliminateSerials.exe",
   "shortcuts": [
     [
